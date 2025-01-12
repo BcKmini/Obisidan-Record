@@ -1,38 +1,41 @@
 {
   "main": {
-    "id": "4a9625dce3c0468a",
+    "id": "cd7f158212ba1014",
     "type": "split",
     "children": [
       {
-        "id": "5b3763e958b2c7bf",
+        "id": "2b741820ec3b5f29",
         "type": "tabs",
         "children": [
           {
-            "id": "19568405d6b2432a",
+            "id": "cc4f650f7e89dbdf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "학부연구생/1월/2주차/2025-01-09.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-01-09"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0b18fcfe18b22061",
+    "id": "e65f02ef40b9a684",
     "type": "split",
     "children": [
       {
-        "id": "35ac61e66d38829a",
+        "id": "cf8d9bab5472312c",
         "type": "tabs",
         "children": [
           {
-            "id": "e324233998e1f87b",
+            "id": "19b007a01bd87112",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,12 +47,12 @@
             }
           },
           {
-            "id": "aa546bf22bc712e8",
+            "id": "2d34a5541f0774aa",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#f4f4f9",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +64,7 @@
             }
           },
           {
-            "id": "7b42a7db39dd9cea",
+            "id": "9f5b19627705c76e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,22 +80,22 @@
     "width": 300
   },
   "right": {
-    "id": "cdcca76ab3821020",
+    "id": "7f7b821c8e63a5d4",
     "type": "split",
     "children": [
       {
-        "id": "d5a6a3e8ca1caf08",
+        "id": "64060ae0128f61f7",
         "type": "tabs",
         "children": [
           {
-            "id": "5a5b4e310fe2e9ea",
+            "id": "5784286b42330096",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hi.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "학부연구생/1월/2주차/2025-01-09.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -100,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Hi의 백링크"
+              "title": "2025-01-09의 백링크"
             }
           },
           {
-            "id": "dfd090dca3be8fa9",
+            "id": "65a1054dbd09f3ef",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hi.md",
+                "file": "학부연구생/1월/2주차/2025-01-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Hi의 나가는 링크"
+              "title": "2025-01-09의 나가는 링크"
             }
           },
           {
-            "id": "03d147a1a2d4ab3a",
+            "id": "6effff8475b6ed07",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,19 +134,19 @@
             }
           },
           {
-            "id": "8fad8499d3afffc8",
+            "id": "bd25b963d616d322",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hi.md"
+                "file": "학부연구생/1월/2주차/2025-01-09.md"
               },
               "icon": "lucide-list",
-              "title": "Hi 개요"
+              "title": "2025-01-09 개요"
             }
           },
           {
-            "id": "2f7bd282ab0c55b9",
+            "id": "9138883416b8157b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -152,12 +155,11 @@
               "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 330.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -168,32 +170,25 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19568405d6b2432a",
+  "active": "cc4f650f7e89dbdf",
   "lastOpenFiles": [
-    "논문세미나/1월/3주차/2025-01-12.md",
-    "conflict-files-obsidian-git.md",
-    "{{Date}}.md",
-    "무제 폴더",
-    "논문세미나/1월/2주차/1409.0473 복사본.pdf",
-    "논문세미나/1월/2주차/10.17671-gazibtd.1399077-3573195.pdf",
-    "논문세미나/1월/2주차/Deep Residual Learning for Image Recognition - Deep Residual Learning for Image Recognition(ResNet).pdf",
-    "논문세미나/1월/2주차/Deep Learning for Vegetation Image Segmentation in LAI Measurement - DEEP LEARNING FOR VEGETATION IMAGE SEGMENTATION IN LAI MEASUREMENT.pdf",
-    "논문세미나/1월/2주차/Learning Optical Flow From Still Images - Aleotti_Learning_Optical_Flow_From_Still_Images_CVPR_2021_paper.pdf",
-    "논문세미나/1월/2주차/2025-01-10.md",
-    "Hi.md",
-    "논문세미나/1월/3주차",
+    "2025-01-12.md",
     "학부연구생/1월/2주차/2025-01-09.md",
     "학부연구생/1월/2주차/2025-01-08.md",
     "학부연구생/1월/2주차",
     "학부연구생/1월",
     "학부연구생",
-    "2025-01-10.md",
-    "논문세미나/Hello.md",
-    "무제 파일.canvas",
-    "Welcome.md"
+    "논문세미나/1월/3주차/2025-01-12.md",
+    "논문세미나/1월/2주차/Learning Optical Flow From Still Images - Aleotti_Learning_Optical_Flow_From_Still_Images_CVPR_2021_paper.pdf",
+    "논문세미나/1월/2주차/Deep Residual Learning for Image Recognition - Deep Residual Learning for Image Recognition(ResNet).pdf",
+    "논문세미나/1월/2주차/Deep Learning for Vegetation Image Segmentation in LAI Measurement - DEEP LEARNING FOR VEGETATION IMAGE SEGMENTATION IN LAI MEASUREMENT.pdf",
+    "논문세미나/1월/2주차/2025-01-10.md",
+    "논문세미나/1월/2주차/1409.0473 복사본.pdf",
+    "논문세미나/1월/2주차/10.17671-gazibtd.1399077-3573195.pdf",
+    "논문세미나/1월/3주차",
+    "논문세미나/1월/2주차"
   ]
 }
