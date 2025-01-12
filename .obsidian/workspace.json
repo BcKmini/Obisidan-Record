@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "학부연구생/1월/2주차/2025-01-09.md",
+                "file": "논문세미나/1월/3주차/2025-01-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-09"
+              "title": "2025-01-12"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "학부연구생/1월/2주차/2025-01-09.md",
+                "file": "논문세미나/1월/3주차/2025-01-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2025-01-09의 백링크"
+              "title": "2025-01-12의 백링크"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "학부연구생/1월/2주차/2025-01-09.md",
+                "file": "논문세미나/1월/3주차/2025-01-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2025-01-09의 나가는 링크"
+              "title": "2025-01-12의 나가는 링크"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "학부연구생/1월/2주차/2025-01-09.md"
+                "file": "논문세미나/1월/3주차/2025-01-12.md"
               },
               "icon": "lucide-list",
-              "title": "2025-01-09 개요"
+              "title": "2025-01-12 개요"
             }
           },
           {
@@ -175,8 +175,8 @@
   },
   "active": "cc4f650f7e89dbdf",
   "lastOpenFiles": [
-    "2025-01-12.md",
     "학부연구생/1월/2주차/2025-01-09.md",
+    "2025-01-12.md",
     "학부연구생/1월/2주차/2025-01-08.md",
     "학부연구생/1월/2주차",
     "학부연구생/1월",
