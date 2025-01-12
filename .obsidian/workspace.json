@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "4a9625dce3c0468a",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b3763e958b2c7bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19568405d6b2432a",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0b18fcfe18b22061",
+    "type": "split",
+    "children": [
+      {
+        "id": "35ac61e66d38829a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e324233998e1f87b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "aa546bf22bc712e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#f4f4f9",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "7b42a7db39dd9cea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "cdcca76ab3821020",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5a6a3e8ca1caf08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a5b4e310fe2e9ea",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hi.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Hi의 백링크"
+            }
+          },
+          {
+            "id": "dfd090dca3be8fa9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hi.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Hi의 나가는 링크"
+            }
+          },
+          {
+            "id": "03d147a1a2d4ab3a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8fad8499d3afffc8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hi.md"
+              },
+              "icon": "lucide-list",
+              "title": "Hi 개요"
+            }
+          },
+          {
+            "id": "2f7bd282ab0c55b9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 330.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "19568405d6b2432a",
+  "lastOpenFiles": [
+    "논문세미나/1월/3주차/2025-01-12.md",
+    "conflict-files-obsidian-git.md",
+    "{{Date}}.md",
+    "무제 폴더",
+    "논문세미나/1월/2주차/1409.0473 복사본.pdf",
+    "논문세미나/1월/2주차/10.17671-gazibtd.1399077-3573195.pdf",
+    "논문세미나/1월/2주차/Deep Residual Learning for Image Recognition - Deep Residual Learning for Image Recognition(ResNet).pdf",
+    "논문세미나/1월/2주차/Deep Learning for Vegetation Image Segmentation in LAI Measurement - DEEP LEARNING FOR VEGETATION IMAGE SEGMENTATION IN LAI MEASUREMENT.pdf",
+    "논문세미나/1월/2주차/Learning Optical Flow From Still Images - Aleotti_Learning_Optical_Flow_From_Still_Images_CVPR_2021_paper.pdf",
+    "논문세미나/1월/2주차/2025-01-10.md",
+    "Hi.md",
+    "논문세미나/1월/3주차",
+    "학부연구생/1월/2주차/2025-01-09.md",
+    "학부연구생/1월/2주차/2025-01-08.md",
+    "학부연구생/1월/2주차",
+    "학부연구생/1월",
+    "학부연구생",
+    "2025-01-10.md",
+    "논문세미나/Hello.md",
+    "무제 파일.canvas",
+    "Welcome.md"
+  ]
+}
