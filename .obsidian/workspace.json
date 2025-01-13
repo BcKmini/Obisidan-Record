@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2b741820ec3b5f29",
+        "id": "7f500616dc87aa26",
         "type": "tabs",
         "children": [
           {
-            "id": "023dff35e123cfe9",
+            "id": "952dd79deb0eda25",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,10 +173,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "023dff35e123cfe9",
+  "active": "952dd79deb0eda25",
   "lastOpenFiles": [
-    "논문세미나/1월/3주차/2025-01-13.md",
     "논문세미나/1월/3주차/2025-01-13 (논문세미나 추가).md",
+    "논문세미나/1월/3주차/2025-01-13.md",
     "논문세미나/1월/3주차/2025-01-12.md",
     "논문세미나/1월/2주차/2025-01-10.md",
     "무제 파일.md",
