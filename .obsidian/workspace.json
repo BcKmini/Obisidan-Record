@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2025-01-12"
             }
+          },
+          {
+            "id": "956ddd7281435723",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "학부연구생/1월/3주차/2025-01-13.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-01-13"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,22 +188,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc4f650f7e89dbdf",
+  "active": "956ddd7281435723",
   "lastOpenFiles": [
+    "학부연구생/1월/3주차/2025-01-13.md",
+    "논문세미나/1월/3주차/2025-01-12.md",
+    "학부연구생/1월/3주차",
     "학부연구생/1월/2주차/2025-01-09.md",
     "2025-01-12.md",
     "학부연구생/1월/2주차/2025-01-08.md",
     "학부연구생/1월/2주차",
     "학부연구생/1월",
     "학부연구생",
-    "논문세미나/1월/3주차/2025-01-12.md",
     "논문세미나/1월/2주차/Learning Optical Flow From Still Images - Aleotti_Learning_Optical_Flow_From_Still_Images_CVPR_2021_paper.pdf",
     "논문세미나/1월/2주차/Deep Residual Learning for Image Recognition - Deep Residual Learning for Image Recognition(ResNet).pdf",
     "논문세미나/1월/2주차/Deep Learning for Vegetation Image Segmentation in LAI Measurement - DEEP LEARNING FOR VEGETATION IMAGE SEGMENTATION IN LAI MEASUREMENT.pdf",
     "논문세미나/1월/2주차/2025-01-10.md",
     "논문세미나/1월/2주차/1409.0473 복사본.pdf",
     "논문세미나/1월/2주차/10.17671-gazibtd.1399077-3573195.pdf",
-    "논문세미나/1월/3주차",
-    "논문세미나/1월/2주차"
+    "논문세미나/1월/3주차"
   ]
 }
