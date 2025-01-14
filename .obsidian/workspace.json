@@ -11,12 +11,14 @@
             "id": "daa0d2ea0cdc4210",
             "type": "leaf",
             "state": {
-              "type": "video",
+              "type": "markdown",
               "state": {
-                "file": "학부연구생/1월/3주차/대시보드-참고.mp4"
+                "file": "학부연구생/1월/3주차/2025-01-14.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "대시보드-참고"
+              "title": "2025-01-14"
             }
           }
         ]
@@ -173,12 +175,12 @@
   },
   "active": "daa0d2ea0cdc4210",
   "lastOpenFiles": [
+    "학부연구생/1월/3주차/대시보드-참고.mp4",
     "학부연구생/1월/3주차/2025-01-14.md",
     "학부연구생/1월/3주차/대시보드-참고사항.webp",
     "학부연구생/1월/3주차/2025-01-13.md",
     "conflict-files-obsidian-git.md",
     "대시보드-참고.mp4",
-    "학부연구생/1월/3주차/대시보드-참고.mp4",
     "학부연구생/1월/3주차/대시보드_참고사진.webp",
     "학부연구생/1월/2주차/2025-01-09.md",
     "31276375-7FA9-46E4-B8CC-0A0E94172669_1_105_c.webp",
